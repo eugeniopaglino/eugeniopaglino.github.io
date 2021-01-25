@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<head>
+  <title>Demographic Histories</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+<div id="main-wrapper">
+
+<img  src="ggp_logo_hq.png" >
+
+<div id="current_age">Age: 15.0</div>
+<div id="speed">
+<div class="start_button" onclick="startAnimation()">Start</div>
+<div class="stop_button" id='stop_button' onclick="stop()">Pause</div>
+<div class="reset_button" onclick="history.go(0)">Reset</div>
+<div class="togglebutton slow" data-val="slow">Slow</div>
+<div class="togglebutton medium current" data-val="medium">Medium</div>
+<div class="togglebutton fast" data-val="fast">Fast</div>
+
+<div class="menus">
+  <div class="widget widget-select multi-select" id='sel_1'>
+    <label for="cat_1" class="select">Countries</label>
+  	<select name="countries" id="country_sel" class="select" multiple>
+  	  <option value="Belgium">Belgium</option>
+  	  <option value="Czech Republic">Czech Republic</option>
+  		<option value="France">France</option>
+  		<option value="Georgia">Georgia</option>
+  		<option value="Germany">Germany</option>
+  		<option value="Lithuania">Lithuania</option>
+  		<option value="Norway">Norway</option>
+  		<option value="Poland">Poland</option>
+  		<option value="United Kingdom">United Kingdom</option>
+  	</select>
+  </div>
+
+  <div class="widget widget-select multi-select" id='sel_2'>
+    <label for="cat_2" class="select">Cohorts</label>
+  	<select name="cohorts" id="cohort_sel" class="select" multiple>
+  	  <option value="1940-1945">1940-1945</option>
+  	  <option value="1945-1950">1945-1950</option>
+  		<option value="1950-1955">1950-1955</option>
+  		<option value="1955-1960">1955-1960</option>
+  		<option value="1960-1965">1960-1965</option>
+  		<option value="1965-1970">1965-1970</option>
+  	</select>
+  </div>
+  
+</div>
+
+<div class="menus" id="line_2">
+  
+  <div class="widget widget-select multi-select" id='sel_3'>
+    <label for="cat_3" class="select">Sex</label>
+  	<select name="sexes" id="sex_sel" class="select" multiple>
+  	  <option value="Females">Females</option>
+  	  <option value="Males">Males</option>
+  	  <option value="Any Sex">Both</option>
+  	</select>
+  </div>
+  
+  <div class="widget widget-select multi-select" id='sel_4'>
+    <label for="cat_4" class="select">Residence</label>
+  	<select name="resedences" id="residence_sel" class="select" multiple>
+  	  <option value="Rural">Rural</option>
+  	  <option value="Urban">Urban</option>
+  	  <option value="Any Residence">Both</option>
+  	</select>
+  </div>
+
+  <div class="widget widget-select multi-select" id='sel_5'>
+    <label for="cat_5" class="select">Education</label>
+  	<select name="educations" id="education_sel" class="select" multiple>
+  	  <option value="Degree">Degree</option>
+  	  <option value="No Degree">No Degree</option>
+  	  <option value="Any Education">Both</option>
+  	</select>
+  </div>
+</div>
+
+<div class="clr"></div>
+</div>
+<div id="note"> &nbsp;</div>
+<div id="chart"></div>
+<div class="clr"></div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script  src="./dropdowns.js"></script>
+<script  src="./viz_engine.js"></script>
+
