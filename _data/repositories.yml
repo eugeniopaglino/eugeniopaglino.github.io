@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - eugeniopaglino
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - The-Uncounted-Lab/county_month_excess_mortality_2020-2022
+  - eugeniopaglino/age-to-cause-conversion
+  - eugeniopaglino/demo_hist_viz
+  - eugeniopaglino/RWorkshopBase
+  - eugeniopaglino/RDataViz
