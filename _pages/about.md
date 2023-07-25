@@ -13,12 +13,12 @@ profile:
     <p></p>
     <p></p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a rising fourth-year PhD student in Demography and Sociology at the University of Pennsylvania and M.A. candidate in Statistics at the Wharton School. I hold a BSc and a MSc in Economics and Social Sciences from Bocconi University. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I apply Bayesian statistics, data science tools, and demographic methods to the study of population processes. My research interests include the interaction between environmental change and population processes, health and mortality disparities, and Bayesian data analysis. I loves visualising data and I am interested in studying ways in which data visualisation can help researchers to communicate more clearly and to reach a wider audience. Outside of research, I like running and cycling and I am a fan of cinema and D&D.
