@@ -2,11 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Materials for seminars and worshops I taught.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+Introduction to R and the `tidyverse` workshop for Demography and Sociology students at the University of Pennsylvania. You can find the slides [here](https://htmlpreview.github.io/?https://github.com/eugeniopaglino/RWorkshopBase/blob/main/RWorkshopBase.html). This is the [repository](https://github.com/eugeniopaglino/RWorkshopBase) with all the material.
