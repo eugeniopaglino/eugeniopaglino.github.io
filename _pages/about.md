@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.pop.upenn.edu/bio/eugenio-paglino'>University of Pennsylvania</a>. Philadelphia, PA, USA. paglino@sas.upenn.edu.
+subtitle: <a href='https://www.helsinki.fi/en/helsinki-institute-demography-and-population-health'>University of Helsinki</a>. Helsinki, Finland. eugenio.paglino@helsinki.fi.
 
 profile:
   align: right
@@ -19,6 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a rising fourth-year PhD student in Demography and Sociology at the University of Pennsylvania and M.A. candidate in Statistics at the Wharton School. I hold a BSc and a MSc in Economics and Social Sciences from Bocconi University. 
-
-I apply Bayesian statistics, data science tools, and demographic methods to the study of population processes. My research interests include the interaction between environmental change and population processes, health and mortality disparities, and Bayesian data analysis. I loves visualising data and I am interested in studying ways in which data visualisation can help researchers to communicate more clearly and to reach a wider audience. Outside of research, I like running and cycling and I am a fan of cinema and D&D.
+I am a postoctoral researcher at the Helsinki Institute for Demography and Population Health (University of Helsinki) and the The Max Planck – University of Helsinki Center for Social Inequalities in Population Health (MaxHel Center). I hold a PhD in Demography and Sociology and a MA in Statistics and Data Science from the University of Pennsylvania and a BSc and MSc in Economics from Bocconi University. My substantive research interests revolve around climate change and population dynamics and inequalities in health and mortality. Methodologicaly, I apply Bayesian statistics to model population processes such as mortality and migration. I loves visualising data and I am interested in studying ways in which data visualisation can help researchers to communicate more clearly and to reach a wider audience. Outside of research, I like running and cycling and I am a fan of cinema and D&D.
