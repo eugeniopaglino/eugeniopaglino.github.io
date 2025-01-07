@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.helsinki.fi/en/helsinki-institute-demography-and-population-health'>University of Helsinki</a>. Helsinki, Finland. eugenio.paglino@helsinki.fi.
+subtitle: <a href='https://www.helsinki.fi/en/helsinki-institute-demography-and-population-health'>University of Helsinki</a>. Helsinki, Finland. eugenio.paglino@helsinki.fi. Follow me on [bluesky](https://bsky.app/profile/eugeniopaglino.bsky.social)!
 
 profile:
   align: right
