@@ -144,12 +144,25 @@
     }
   ],
   "awards": [
-    "Mortality and Morbidity Impact of COVID-19 Beyond the Acute Pandemic Phase-Lessons for Future Pandemics. Sponsor: The Society of Actuaries. Funding: $50,000.00. Role: Co-Investigator.",
-    "Visiting Doctoral Student Fellowship, Institut National d’Études Démographiques (INED)"
+    {
+      "title":"Mortality and Morbidity Impact of COVID-19 Beyond the Acute Pandemic Phase-Lessons for Future Pandemics.",
+      "awarder": "The Society of Actuaries. Funding: $50,000.00. Role: Co-Investigator."
+    },
+    {
+      "title":"Visiting Doctoral Student Fellowship, Institut National d’Études Démographiques (INED)"
+    }
   ],
   "certificates": [],
   "publications": [],
-  "skills": ["R","Python","Statistics","Bayesian Methods (Stan, INLA)","Econometrics","Causal Inference","Demographic Methods"],
+  "skills": [
+    {"name":"R"},
+    {"name":"Python"},
+    {"name":"Statistics"},
+    {"name":"Bayesian Methods (Stan, INLA)"},
+    {"name":"Econometrics"},
+    {"name":"Causal Inference"},
+    {"name":"Demographic Methods"}
+  ],
   "languages": [
     {
       "language": "Italian",
