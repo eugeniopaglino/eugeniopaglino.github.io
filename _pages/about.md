@@ -6,7 +6,7 @@ subtitle: <a href='https://www.helsinki.fi/en/helsinki-institute-demography-and-
 
 profile:
   align: right
-  image: twitterPicSmall.jpg
+  image: 1758364414517_small.png
   image_circular: false # crops the image to make it circular
   address: >
     <p></p>
