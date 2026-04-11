@@ -6,14 +6,14 @@
     "email": "eugenio.paglino@helsinki.fi",
     "phone": "",
     "url": "",
-    "summary": "I am a postoctoral researcher at the Helsinki Institute for Demography and Population Health (University of Helsinki) and the The Max Planck – University of Helsinki Center for Social Inequalities in Population Health (MaxHel Center). I hold a PhD in Demography and Sociology and a MA in Statistics and Data Science from the University of Pennsylvania and a BSc and MSc in Economics from Bocconi University. My substantive research interests revolve around climate change and population dynamics and inequalities in health and mortality. Methodologicaly, I apply Bayesian statistics to model population processes such as mortality and migration",
+    "summary": "I am a postdoctoral researcher at the Helsinki Institute for Demography and Population Health (University of Helsinki) and the Max Planck – University of Helsinki Center for Social Inequalities in Population Health (MaxHel Center). I hold a PhD in Demography and Sociology and an MA in Statistics and Data Science from the University of Pennsylvania, as well as a BSc and MSc in Economics from Bocconi University. My substantive research interests revolve around climate change and population dynamics, and inequalities in health and mortality. Methodologically, I apply Bayesian statistics to model population processes such as mortality and migration.",
     "location": {
       "address": "Snellmaninkatu 12",
       "postalCode": "00170",
       "city": "Helsinki",
       "countryCode": "FI",
       "region": "Helsinki-Uusimaa"
-    },
+    }
   },
   "work": [
       {
