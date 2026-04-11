@@ -2,8 +2,11 @@ github_users:
   - eugeniopaglino
 
 github_repos:
-  - The-Uncounted-Lab/county_month_excess_mortality_2020-2022
-  - eugeniopaglino/age-to-cause-conversion
-  - eugeniopaglino/demo_hist_viz
+  - eugeniopaglino/mortality-modeling
+  - eugeniopaglino/groupwise-decomposition
   - eugeniopaglino/RWorkshopBase
   - eugeniopaglino/RDataViz
+  - The-Uncounted-Lab/county_month_excess_mortality_2020-2022
+  - eugeniopaglino/pandemic-immigrant-mortality
+  - eugeniopaglino/demo_hist_viz
+
