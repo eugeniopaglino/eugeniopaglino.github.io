@@ -8,24 +8,17 @@
     "url": "",
     "summary": "I am a postoctoral researcher at the Helsinki Institute for Demography and Population Health (University of Helsinki) and the The Max Planck – University of Helsinki Center for Social Inequalities in Population Health (MaxHel Center). I hold a PhD in Demography and Sociology and a MA in Statistics and Data Science from the University of Pennsylvania and a BSc and MSc in Economics from Bocconi University. My substantive research interests revolve around climate change and population dynamics and inequalities in health and mortality. Methodologicaly, I apply Bayesian statistics to model population processes such as mortality and migration",
     "location": {
-      "address": "Unioninkatu 33",
+      "address": "Snellmaninkatu 12",
       "postalCode": "00170",
       "city": "Helsinki",
       "countryCode": "FI",
       "region": "Helsinki-Uusimaa"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "eugenio_paglino",
-        "url": "https://twitter.com/eugenio_paglino"
-      }
-    ]
   },
   "work": [
       {
       "name": "University of Helsinki",
-      "position": "Data Scientist, Postdoctoral Researcher",
+      "position": "Postdoctoral Researcher, Data Scientist",
       "url": "",
       "startDate": "2024-09-01",
       "endDate": "Present",
@@ -144,6 +137,14 @@
     }
   ],
   "awards": [
+    {
+      "title":"Leveraging Register Data to Uncover the Impact of International Migration on Health and Mortality Trends in Finland",
+      "awarder": "Finnish Cultural Foundation. Funding: €36,000.00. Role: Principal Investigator."
+    },
+    {
+      "title":"Quantifying the Population-Level Impact of GLP-1 Receptor Agonists on Mortality",
+      "awarder": "The Society of Actuaries. Funding: $50,000.00. Role: Co-Investigator."
+    },
     {
       "title":"Mortality and Morbidity Impact of COVID-19 Beyond the Acute Pandemic Phase-Lessons for Future Pandemics.",
       "awarder": "The Society of Actuaries. Funding: $50,000.00. Role: Co-Investigator."
