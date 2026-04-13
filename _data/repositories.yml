@@ -4,6 +4,7 @@ github_users:
 github_repos:
   - eugeniopaglino/mortality-modeling
   - eugeniopaglino/groupwise-decomposition
+  - eugeniopaglino/R-for-register-data
   - eugeniopaglino/RWorkshopBase
   - eugeniopaglino/RDataViz
   - The-Uncounted-Lab/county_month_excess_mortality_2020-2022
