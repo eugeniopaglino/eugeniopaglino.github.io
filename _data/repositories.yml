@@ -2,6 +2,7 @@ github_users:
   - eugeniopaglino
 
 github_repos:
+  - eugeniopaglino/lt-utilities
   - eugeniopaglino/mortality-modeling
   - eugeniopaglino/groupwise-decomposition
   - eugeniopaglino/R-for-register-data
