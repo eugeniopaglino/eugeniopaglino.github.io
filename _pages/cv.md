@@ -4,6 +4,6 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: CVEP.pdf
+cv_pdf: PAGLINO_CV.pdf
 description: Academic CV
 ---
