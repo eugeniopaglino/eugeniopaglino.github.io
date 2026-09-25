@@ -8,6 +8,7 @@ nav_order: 5
 ---
 
 ### Courses
+- Introduction to Modern Causal Inference, SOC-930, PhD course, University of Helsinki
 - Introduction to Multilevel Models, SOST-930, PhD course, University of Helsinki
 
 ### Lectures
